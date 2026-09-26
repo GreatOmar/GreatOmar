@@ -29,23 +29,6 @@
 
 <br/>
 
-<!-- FEATURED STATS -->
-<h3>
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/graph.svg" width="24" height="24" align="center"/> 
-  GitHub Metrics
-</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GreatOmar&show_icons=true&theme=catppuccin&hide_border=true&title_color=89b4fa&icon_color=89b4fa&text_color=cdd6f4&bg_color=1e1e2e" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreatOmar&layout=compact&theme=catppuccin&hide_border=true&title_color=89b4fa&text_color=cdd6f4&bg_color=1e1e2e" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GreatOmar&theme=catppuccin&hide_border=true&background=1e1e2e&ring=89b4fa&fire=89b4fa" width="97%" />
-</p>
-
-<br/>
-
 <!-- CONNECT SECTION -->
 <h3>
   <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/folder-shared.svg" width="24" height="24" align="center"/> 
